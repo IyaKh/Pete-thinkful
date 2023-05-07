@@ -6,7 +6,9 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color:#eae2b7;
-  max-width: 1000px;
+  max-width: 1500px;
+  justify-content: center;
+  
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
